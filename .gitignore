@@ -1,0 +1,8 @@
+plan_mode.md
+target/
+.idea/
+.vscode/
+.DS_Store
+configs/local*.json
+artifacts/
+logs/
